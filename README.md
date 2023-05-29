@@ -1,4 +1,5 @@
 # Skeleton Loading
+* [General info](#general-info)
 
-## Info
+## General Info
 Simulates a loading state of skeleton cards while waiting to fetch data from an API.
